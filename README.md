@@ -1,6 +1,6 @@
 # MaketacionAlmacenAutonomoP1
-# Sistema de Automatización de Almacén - Maquetación Web
-# ################################################################
+# Sistema de Automatización de Almacén - Maquetación Web 🚀 ☘️ 🤙 🎬
+# ####################################################################
 
 Versión 1.0, 2.0, 3.0
 
